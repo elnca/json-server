@@ -1,0 +1,20 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "fistName": "Elaine Catherine",
+            "middleName": "Flores",
+            "lastName": "Callope",
+            "suffix": "",
+            "studentNumber": "2020283741"
+        },
+        {
+            "id": 2,
+            "fistName": "Missy Aira",
+            "middleName": "Lalaguna",
+            "lastName": "Linatoc",
+            "suffix": "",
+            "studentNumber": "2020283011"
+        }
+    ]
+}
