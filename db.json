@@ -2,7 +2,7 @@
     "students": [
         {
             "id": 1,
-            "fistName": "Elaine Catherine",
+            "firstName": "Elaine Catherine",
             "middleName": "Flores",
             "lastName": "Callope",
             "suffix": "",
